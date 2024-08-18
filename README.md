@@ -1,8 +1,8 @@
 This repo is empty as I left GitHub when it was purchased by MS.
 
-However, this readme will contain links to my self-hosted Git, where this repo contains;
+However, this readme will contain links to self-hosted Git, where this repo will exist and will contain;
 
-1. Replacement system tables for Amazon Redshift (include the installer, test suite, and completely comprehensive documentation).  These are wholly my work and are so unified, coherent and consistent, and come with an extensive test suite.
+1. Replacement system tables for Amazon Redshift (including installer, uninstaller, test suite, and *completely* comprehensive documentation).
 2. HTML/PDFs of numerous investigations into Redshift sub-systems.
 
-As of 2024-07-29, I am in the process of setting up the various repos/git/etc, and will update this readme when it's all good to go.
+As of 2024-07-29, I am in the process of writing the code and setting up the various repos/git/etc, and will update this readme when it's all good to go.
