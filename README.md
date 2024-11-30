@@ -6,4 +6,4 @@ Currently, there are about 780 views, but they are organized; you'll ignore thos
 
 https://www.redshift-observatory.ch/replacement_system_tables/index.html
 
-Docs for current release : https://www.redshift-observatory.ch/replacement_system_tables/files/rst_241129.html
+HTML docs for current release : https://www.redshift-observatory.ch/replacement_system_tables/files/rst_241129.html
