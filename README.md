@@ -5,3 +5,5 @@ However, this readme provides below a link to the Redshift Observatory Replaceme
 Currently, there are about 780 views, but they are organized; you'll ignore those which don't matter.
 
 https://www.redshift-observatory.ch/replacement_system_tables/index.html
+
+Docs for current release : https://www.redshift-observatory.ch/replacement_system_tables/files/rst_241129.html
